@@ -1,6 +1,6 @@
-<p align=>
+<h1 align=>
 🕹 PÓKEDEX 🕹
-</p>
+</h1>
 
 ![3968710-pokedex-run](https://github.com/Patrick-rebelo/pokedex/assets/133077135/6f6d1629-2cd0-4c38-be98-206b3af1e6f2)
 
